@@ -1,22 +1,22 @@
 # Setup
-title:               spencerroh
-tagline:             '경제적 자유를 위한 미국 주식 레포트'
-description:         '미국 주식 분석과 투자 인사이트를 기록하는 블로그입니다.'
-url:                 https://spencerroh.github.io
-baseurl:             ''
-paginate:            5
-permalink:           pretty
+title: Rivendell
+tagline: "경제적 자유를 위한 미국 주식 레포트"
+description: "미국 주식 분석과 투자 인사이트를 기록하는 블로그입니다."
+url: https://spencerroh.github.io
+baseurl: ""
+paginate: 5
+permalink: pretty
 
 # About/contact
 author:
-  name:              spencerroh
-  url:               https://github.com/spencerroh
-  email:             ''
+  name: spencerroh
+  url: https://github.com/spencerroh
+  email: "spencer.roh@gmail.com"
 
 # Gems
 plugins:
   - jekyll-paginate
 
 # Custom vars
-version:             1.1.0
+version: 1.1.0
 google_analytics_id: #UA-XXXX-Y
